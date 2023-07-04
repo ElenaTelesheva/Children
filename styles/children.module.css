@@ -1,0 +1,28 @@
+.children_options {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(234, 232, 232, 0.4);
+    border-radius: 10px;
+
+    padding: 1em 1em;
+}
+
+.block_filter {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.block_filter label {
+    margin-left: 0.6em;
+}
+
+.filter {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    gap: 0.5em;
+
+}

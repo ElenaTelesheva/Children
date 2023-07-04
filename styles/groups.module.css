@@ -1,0 +1,59 @@
+.table-responsive {
+    margin: 0;
+}
+
+.selectedGroup {
+    border: 2px solid rgb(13, 110, 253);
+    background-color: rgba(13, 109, 253, 0.233) !important;
+}
+
+.selectedGroup>td {
+    background-color: transparent !important;
+}
+
+.no_children {
+    width: 100%;
+    
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    display: flex;
+    background-color: rgba(235, 231, 231, 0.745);
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.orange_feedback{
+    color: orange;
+}
+
+.groups_options {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(234, 232, 232, 0.4);
+    border-radius: 10px;
+
+    padding: 1em 1em;
+}
+
+.block_filter {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.block_filter label {
+    margin-left: 0.6em;
+}
+
+.filter {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    gap: 0.5em;
+
+}

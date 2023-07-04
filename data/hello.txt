@@ -1,0 +1,35 @@
+{
+        "surname": "Глушков",
+         "name": "Семён",
+          "patronymic": "Палыч", 
+          "email": "pal@mail.pal",  
+        "gender": true, 
+        "birthDate": "2022-02-01", 
+        "groupId": "3",
+        "address": "ЫЫЫЫЫЫЫЫЫ", 
+        "healthGroupId": 1, 
+        "healthNote": "",
+        "parents": [
+            {
+              "surname" : "Бэтя",
+               "name": "Батькович", 
+               "patronymic": "",
+               "birthDate" : "1994-02-01",
+                "workPlace": "ООО собачки", 
+                "relationshipId": 1,
+                "email" : "pal@mail.pal",
+                "gender": true
+            },
+             {
+              "surname" : "Мэмовна",
+               "name": "Мэма", 
+               "patronymic": "Мэм",
+               "birthDate" : "1995-02-01",
+                "workPlace": "ООО кошечки", 
+                "relationshipId": 1,
+                "email" : "pal@mail.pal",
+                "gender": true
+            }
+        ]
+        
+        }

@@ -1,0 +1,47 @@
+.modal_window {
+    min-width: 38em !important;
+}
+
+h5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    margin-bottom: 0;
+    color: black;
+}
+
+.orange_feedback {
+    color: orange;
+}
+
+.employees_options {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(234, 232, 232, 0.4);
+    border-radius: 10px;
+
+    padding: 1em 1em;
+}
+
+.block_filter {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.block_filter label {
+    margin-left: 0.6em;
+}
+
+.filter {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    gap: 0.5em;
+
+}

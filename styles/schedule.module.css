@@ -1,0 +1,83 @@
+.block_colomn_name {
+    margin-top: 2em;
+    display: flex;
+    width: 100%;
+    gap: 1em;
+    /* flex-wrap: wrap; */
+}
+
+.colomn_name {
+    display: inline-flex;
+    justify-content: center;
+    width: 20%;
+    border-radius: 10px;
+    font-size: 17px;
+    font-weight: bold;
+    color: rgb(121, 120, 120);
+}
+
+.block_colomn {
+    display: flex;
+    width: 100%;
+    gap: 1em;
+}
+
+.colomn {
+    display: inline-flex;
+    width: 20%;
+    /* height: 30em; */
+
+    height: max-content;
+    background-color: rgb(234, 232, 232);
+    border-radius: 10px;
+
+    flex-direction: column;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    gap: 1em;
+
+}
+
+.lesson_card {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    display: flex;
+    height: max-content;
+    /* background-color: rgb(189, 142, 233); */
+    border-radius: 10px;
+    padding-left: 0.3em;
+    padding-right: 0.2em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    flex-direction: column;
+    font-size: 20px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.action_icons {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-bottom: 0.5em;
+}
+
+.action_icons button {
+    padding: 0;
+}
+
+.lessons_options {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(234, 232, 232, 0.4);
+    border-radius: 10px;
+
+    padding: 1em 1em;
+}
+
+.orange_feedback{
+    color: orange;
+}

@@ -1,0 +1,109 @@
+[
+    {
+        "id": 1,
+        "subject": {
+            "id": 1,
+            "name": "Tuesday2"
+        },
+        "group": {
+            "id": 1,
+            "name": "avava"
+        },
+        "room": {
+            "id": 1,
+            "name": "к. 453"
+        },
+        "teacher": {
+            "id": 1,
+            "name": "Иванов И.С."
+        },
+        "startTime": "19:45",
+        "endTime": "21:00",
+        "periodicity": {
+            "id": 1,
+            "name": "каждую неделю"
+        },
+        "weekDay": 2
+    },
+    {
+        "id": 2,
+        "subject": {
+            "id": 1,
+            "name": "Tuesday1"
+        },
+        "group": {
+            "id": 1,
+            "name": "avava"
+        },
+        "room": {
+            "id": 1,
+            "name": "avava"
+        },
+        "teacher": {
+            "id": 1,
+            "name": "Иванов И.С."
+        },
+        "startTime": "17:45",
+        "endTime": "18:30",
+        "periodicity": {
+            "id": 2,
+            "name": "нечетная неделя"
+        },
+        "weekDay": 2
+    },
+    {
+        "id": 3,
+        "subject": {
+            "id": 1,
+            "name": "Wednesday"
+        },
+        "group": {
+            "id": 1,
+            "name": "avava"
+        },
+        "room": {
+            "id": 1,
+            "name": "avava"
+        },
+        "teacher": {
+            "id": 1,
+            "name": "Иванов И.С."
+        },
+        "startTime": "17:45",
+        "endTime": "18:30",
+        "periodicity": {
+            "id": 3,
+            "name": "четная неделя"
+        },
+        "weekDay": 3
+    },
+    {
+        "id": 4,
+        "subject": {
+            "id": 1,
+            "name": "Thurday"
+        },
+        "group": {
+            "id": 1,
+            "name": "avava"
+        },
+        "room": {
+            "id": 1,
+            "name": "avava"
+        },
+        "teacher": {
+            "id": 1,
+            "name": "Иванов И.С."
+        },
+        "startTime": "17:45",
+        "endTime": "18:30",
+        "periodicity": {
+            "id": 1,
+            "name": "каждую неделю"
+        },
+        "weekDay": 4
+    }
+]
+
+
+
